@@ -1,7 +1,15 @@
 body{
      text-align: center;
-background-color: aqua;
+     background-color: aqua;
 }
 .capa{
-     width: 100%;
+  width: 100%;
+}
+.capa{
+     width: 100% ;
+}
+.beneficios{
+ } .foto-beneficios{ background-color: bisque;
+     
+     text-align: left ;
 }
